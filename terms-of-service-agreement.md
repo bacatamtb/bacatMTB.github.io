@@ -1,0 +1,27 @@
+# Términos y Condiciones de Uso de la Información
+
+## AVISO DE PRIVACIDAD
+
+ **BACATA MTB**se permite informar a todos los interesados, que en cumplimiento de nuestra Política de Protección de Datos personales, los datos personales que obtengamos y almacenemos en virtud de las operaciones que usted solicite o celebre con **BACATA MTB** serán tratados conforme a los principios y deberes definidos en la ley 1581 de 2012 y demás normas que traten y regulen sobre esta materia, siempre en función de propender por el mejoramiento de las Cámaras de Comercio en cuanto a tecnificación, eficacia y agilidad en la prestación de sus servicios y aquellas propias de la actividad gremial que se lleguen a desarrollar en cumplimiento con nuestros objetivos.
+
+- Responsables del tratamiento de sus datos personales: El responsable del tratamiento de sus datos personales será **BACATA MTB**, ante quien los interesados podrán dirigirse para el efectivo ejercicio de sus derechos de acceso, rectificación, actualización, supresión y revocación de la autorización de tratamiento. El ejercicio de estos derechos está restringido conforme a los límites establecidos por Ley.
+
+- Domicilio: Para efectos del presente aviso de privacidad, **BACATA MTB** señala como su domicilio la ciudad de Bogotá, Colombia.
+
+- Tratamiento de datos personales sin previa autorización: **BACATA MTB** podrá tratar datos personales sin previa autorización del titular en todos los casos en que éstos sean de naturaleza pública. Es decir, que todos los datos personales contenidos en los Registros Públicos encargados por las Cámaras de Comercio a **BACATA MTB**, no requerirán de autorización por parte del titular para su tratamiento. Lo anterior en concordancia con el artículo 10 de la Ley 1581 de 2012.
+
+- Tratamiento de datos personales con previa autorización: Aparte de los datos contenidos en los Registros Públicos tratados por **BACATA MTB** como encargada del tratamiento, **BACATA MTB** recoge y trata otros datos personales diferentes y necesarios para el cumplimiento de otras funciones propias a la naturaleza y objetivos de la confederación.
+
+- Finalidades del tratamiento: Los datos personales que **BACATA MTB** recoja a través de sus diferentes canales transaccionales, serán usados para la operación y finalidades establecidas en el artículo 96 del Código de Comercio Colombiano y las finalidades establecidas en sus propios estatutos. Asimismo, **BACATA MTB** podrá utilizar sus datos personales para ofrecerle y/o informarle, en su caso, de otros productos y/o servicios prestados por la Confederación o cualquiera de sus Cámaras de Comercio agremiadas.
+
+- Transferencia de datos personales: **BACATA MTB** podrá transferir sus datos personales a sus agremiados y a terceros con quienes tenga relación operativa que le provean de servicios necesarios para su debida operación, o de conformidad con las funciones establecidas a su cargo en la Ley y sus estatutos. En dichos supuestos, le informamos que **BACATA MTB** adoptará las medidas necesarias para que las personas que tengan acceso a sus datos personales cumplan con la Política de Protección de Datos Personales adoptada por **BACATA MTB**, el Documento de Seguridad y con los principios de protección de datos personales establecidos en la Ley y demás normativa que regule esta materia.
+
+- Ejercicio de sus Derechos: Usted o su representante legal, debidamente acreditado, podrán limitar el uso o divulgación de sus datos personales; así como ejercer, cuando proceda, los derechos de Acceso, Rectificación, Actualización o Supresión que la Ley prevé mediante los formatos que **BACATA MTB** le proporcione para tales efectos de forma gratuita. Es importante mencionar que el ejercicio de cualquiera de dichos derechos no es requisito previo, ni impide el ejercicio de otro derecho. Los datos personales obtenidos en desarrollo de las funciones establecidas en el artículo 96 del Código de Comercio, solamente serán actualizados en las oportunidades y formalidades previstas en la Ley para tal fin.
+
+- Modificaciones al Aviso de Privacidad: Cualquier modificación al presente Aviso le será notificado por cualquiera de los siguientes medios: Un comunicado por escrito enviado a su domicilio o entregado en la(s) sede(s) de **BACATA MTB**; un mensaje enviado a su correo electrónico o a su teléfono móvil; un mensaje dado a conocer a través de nuestra página www.bacatamtb.github.io o de cualquier medio electrónico que utilice para celebrar operaciones con **BACATA MTB**; o bien, a través de avisos publicados en la(s) sede(s) de la Confederación.
+
+- Seguridad de la información. **BACATA MTB** ha adoptado las medidas tecnológicas, jurídicas y organizativas posibles y necesarias para la protección de sus datos personales, con el fin de garantizar los atributos de autenticidad, integridad y disponibilidad de la información.
+
+Para mayor información sobre el tratamiento de sus datos personales podrá escribir a bacatamtb@gmail.com, la Política de Tratamiento de Datos Personales y el Documento de Seguridad de **BACATA MTB**.
+
+Me permito manifestar que he leído el presente Aviso de Privacidad, y manifiesto mi consentimiento y autorización para el tratamiento de los datos personales por mí suministrados dentro de las finalidades aquí contempladas.
